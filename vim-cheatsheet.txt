@@ -4,6 +4,21 @@
 # DOCUMENTATION: https://vim.sourceforge.io/docs.php
 ##############################################################################
 
+h                   move left
+j                   move down
+k                   move up
+l                   move right
+u                   undo
+CTRL-r              redo
+.                   repeat last command
+i                   start insert mode at cursor
+x                   delete current character
+X                   delete previous character
+p                   put (paste) the clipboard after cursor/current line
+P                   put (paste) before cursor/current line
+%                   show matching brace, bracket, or parenthese
+
+
 
 ##############################################################################
 # CURSOR MOVEMENTS
